@@ -210,7 +210,7 @@ yarn deploy:fork
 
 ## Community
 
--   [Twitter](https://twitter.com/Bancor)
--   [Telegram](https://t.me/bancor)
--   [Discord](https://discord.gg/aMVTbrmgD7)
--   [Reddit](https://www.reddit.com/r/Bancor)
+- [Twitter](https://twitter.com/Bancor)
+- [Telegram](https://t.me/bancor)
+- [Discord](https://discord.gg/aMVTbrmgD7)
+- [Reddit](https://www.reddit.com/r/Bancor)
